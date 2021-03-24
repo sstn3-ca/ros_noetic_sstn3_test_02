@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>beginner_tutorials</name>
-  <version>0.0.1</version>
+  <name>ros_noetic_sstn3_test_02</name>
+  <version>0.0.5</version>
   <description>The beginner_tutorials package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
